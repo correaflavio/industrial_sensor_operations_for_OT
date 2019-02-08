@@ -29,8 +29,6 @@ Our solution will leverage the following Cisco technologies
 **TODO:** ASIC projects must consist of a minimum of 2 SE’s
 representing a minimum of 2 segments. List names here
 
-* team member1 <email> - Segment Name
-* team member2 <email> - Segment Name
 * Flavio Correa <flcorrea@cisco.com> - Brazil
 * Julio Cesar Gouy <jgouy@cisco.com> - Enterprise
 * Alexandre Longo <alongo@cisco.com> - Public Sector
